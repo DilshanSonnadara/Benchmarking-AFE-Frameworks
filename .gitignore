@@ -1,3 +1,13 @@
+# Ignore everything
+*
+
+# Allow folders
+!*/
+
+# Allow Python and Jupyter Notebook files
+!*.py
+!*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
